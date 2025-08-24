@@ -1,4 +1,5 @@
 Rencana Kedepan Maimudi
-- Bisa membuat web 
+- Bisa membuat web
+  * yang bagus
 - Bisa Membuat Aplikasi
 - Bisa menghasilkan duit dari project
