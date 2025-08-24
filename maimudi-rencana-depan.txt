@@ -1,6 +1,7 @@
 Rencana Kedepan Maimudi
 - Bisa membuat web
   * yang bagus
+    ^ Disukai
 - Kepercayaan diri
 - Bisa Membuat Aplikasi
 - Bisa menghasilkan duit dari project
